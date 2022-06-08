@@ -1,0 +1,213 @@
+id: I38FFBCBF
+source: https://library.bdrc.io
+source_file: null
+initial_creation_type: ocr
+imported: '2020-03-26T11:31:57+00:00'
+last_modified: '2022-06-08T13:36:58.881526+00:00'
+parser: https://github.com/OpenPecha-dev/openpecha-toolkit/blob/231bba39dd1ba393320de82d4d08a604aabe80fc/openpecha/formatters/google_orc.py
+source_metadata:
+  id: bdr:W1KG16655
+  title: གསུང་འབུམ། ཡེ་ཤེས་རྒྱལ་མཚན།
+  author: ''
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: true
+  base:
+    40B2:
+      image_group_id: I4PD2634
+      title: ''
+      total_pages: 568
+      order: 1
+      base_file: 40B2.txt
+    B5E0:
+      image_group_id: I4PD2635
+      title: ''
+      total_pages: 462
+      order: 2
+      base_file: B5E0.txt
+    C9A6:
+      image_group_id: I4PD2636
+      title: ''
+      total_pages: 438
+      order: 3
+      base_file: C9A6.txt
+    4EAF:
+      image_group_id: I4PD2637
+      title: ''
+      total_pages: 478
+      order: 4
+      base_file: 4EAF.txt
+    6F5B:
+      image_group_id: I4PD2638
+      title: ''
+      total_pages: 494
+      order: 5
+      base_file: 6F5B.txt
+    91A4:
+      image_group_id: I4PD2639
+      title: ''
+      total_pages: 446
+      order: 6
+      base_file: 91A4.txt
+    C763:
+      image_group_id: I4PD2640
+      title: ''
+      total_pages: 446
+      order: 7
+      base_file: C763.txt
+    34AE:
+      image_group_id: I4PD2641
+      title: ''
+      total_pages: 428
+      order: 8
+      base_file: 34AE.txt
+    1ADB:
+      image_group_id: I4PD2642
+      title: ''
+      total_pages: 470
+      order: 9
+      base_file: 1ADB.txt
+    6BC6:
+      image_group_id: I4PD2643
+      title: ''
+      total_pages: 286
+      order: 10
+      base_file: 6BC6.txt
+    '8214':
+      image_group_id: I4PD2644
+      title: ''
+      total_pages: 398
+      order: 11
+      base_file: 8214.txt
+    F454:
+      image_group_id: I4PD2645
+      title: ''
+      total_pages: 518
+      order: 12
+      base_file: F454.txt
+    62E2:
+      image_group_id: I4PD2646
+      title: ''
+      total_pages: 438
+      order: 13
+      base_file: 62E2.txt
+    94B4:
+      image_group_id: I4PD2647
+      title: ''
+      total_pages: 558
+      order: 14
+      base_file: 94B4.txt
+    9B0A:
+      image_group_id: I4PD2648
+      title: ''
+      total_pages: 510
+      order: 15
+      base_file: 9B0A.txt
+    '9696':
+      image_group_id: I4PD2649
+      title: ''
+      total_pages: 414
+      order: 16
+      base_file: 9696.txt
+    8AA9:
+      image_group_id: I4PD2650
+      title: ''
+      total_pages: 390
+      order: 17
+      base_file: 8AA9.txt
+    6F4F:
+      image_group_id: I4PD2651
+      title: ''
+      total_pages: 374
+      order: 18
+      base_file: 6F4F.txt
+    535F:
+      image_group_id: I4PD2652
+      title: ''
+      total_pages: 406
+      order: 19
+      base_file: 535F.txt
+    446A:
+      image_group_id: I4PD2653
+      title: ''
+      total_pages: 414
+      order: 20
+      base_file: 446A.txt
+    2A42:
+      image_group_id: I4PD2654
+      title: ''
+      total_pages: 406
+      order: 21
+      base_file: 2A42.txt
+    AA4D:
+      image_group_id: I4PD2655
+      title: ''
+      total_pages: 626
+      order: 22
+      base_file: AA4D.txt
+    BD33:
+      image_group_id: I4PD2656
+      title: ''
+      total_pages: 366
+      order: 23
+      base_file: BD33.txt
+    FF89:
+      image_group_id: I4PD2657
+      title: ''
+      total_pages: 374
+      order: 24
+      base_file: FF89.txt
+    '4150':
+      image_group_id: I4PD2658
+      title: ''
+      total_pages: 366
+      order: 25
+      base_file: 4150.txt
+    A32E:
+      image_group_id: I4PD2659
+      title: ''
+      total_pages: 406
+      order: 26
+      base_file: A32E.txt
+    48F0:
+      image_group_id: I4PD2660
+      title: ''
+      total_pages: 434
+      order: 27
+      base_file: 48F0.txt
+    C4DD:
+      image_group_id: I4PD2661
+      title: ''
+      total_pages: 406
+      order: 28
+      base_file: C4DD.txt
+    EEB8:
+      image_group_id: I4PD2662
+      title: ''
+      total_pages: 414
+      order: 29
+      base_file: EEB8.txt
+    EF90:
+      image_group_id: I4PD2663
+      title: ''
+      total_pages: 390
+      order: 30
+      base_file: EF90.txt
+    FCE3:
+      image_group_id: I4PD2664
+      title: ''
+      total_pages: 446
+      order: 31
+      base_file: FCE3.txt
+    782F:
+      image_group_id: I4PD2665
+      title: ''
+      total_pages: 414
+      order: 32
+      base_file: 782F.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
